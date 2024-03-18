@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there
+I do stuff with python, html and css.
+Currently learning java and rust.
+
+
 
 <!--
 **l1bfm/l1bfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
