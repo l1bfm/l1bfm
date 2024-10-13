@@ -1,7 +1,7 @@
 ### Hey there
-I do stuff with python, html and css.
-Currently learning java and rust.
+I do small projects, mainly with python. My newest one is cliweather, a weather application for the terminal.
 
+currently studying cs.
 
 
 <!--
